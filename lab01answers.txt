@@ -1,0 +1,39 @@
+lab 01 
+
+exercise 1:
+  valid varible names : x , length, NUMBER, Android_phone1.
+
+exercise 2:
+1 a= false  ------ is a boolean
+2. b = 3.7  ------- is a float
+3. c = 'Alex' ------ is a string
+4. d = 7   ---------- is an integer (int)
+5. e = 'True' -------- is a boolean
+6. f = 17  -----------  is an integer (int)
+7. g = '17  ----------- is an error
+8. h = True  ---------- is a boolean
+9. i = '3.14159'  -------- is a string
+10. j = “---add---”  ------- is a string
+ 
+
+exercise two
+1.False
+2.True
+3.True
+4.True
+5.False
+6.True
+
+exercise three
+1 ------2
+2 ------2.5
+3 ------2.5
+4 ------0
+5 ------3.5
+6 ------25
+7 ------invalid syntax
+8 ------invalid syntax
+9 ------0
+10 -----0.333333333333
+
+
